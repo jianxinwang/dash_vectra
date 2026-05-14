@@ -24,7 +24,7 @@ import math
 
 
 VALID_USERNAME_PASSWORD_PAIRS = {
-    'dbuser': 'pa$$w0rd'
+    'dbuser': 'xxxxxxxx'
 }
 
 
